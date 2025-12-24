@@ -13,7 +13,7 @@ This Power BI project analyzes sales data to identify trends, revenue growth, an
 - Region-wise performance
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Screenshot 2025-12-24 235856.png)
 
 ## Files Included
 - `.pbit` → Power BI template
